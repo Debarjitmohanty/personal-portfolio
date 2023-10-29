@@ -1,3 +1,9 @@
-# personal-portfolio
+<html>
+  <head>Personal Portfolio</head>
+  <body>
+    <h1>It's my simple portfolio website created using HTML, CSS, and javascript.</h1>
+ <p> If you show my profile please click the link <a href=https://debarjitmohanty.netfy.info/></a></p>
+  </body>
+</html>
 
-It's my simple portfolio website created by using html,css,java script.
+
